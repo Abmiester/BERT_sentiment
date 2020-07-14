@@ -1,4 +1,4 @@
-# BERT_sentiment
+# Sentiment analysis with PyTorch and BERT
 A number of projects, the goals of which are to build a better understanding progressively in:
 - Sentiment analysis with transformers and BERT
 - Deep learning using PyTorch
